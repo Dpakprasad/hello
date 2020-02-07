@@ -1,3 +1,5 @@
 This line is written in master.
 Modified this file from branch.
 Modified this file second time in second-branch.
+Line four added in third branch.
+String name = "Deepak"
